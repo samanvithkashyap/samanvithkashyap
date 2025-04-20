@@ -1,29 +1,29 @@
-# Hey, I'm Samanvith
+# 👋 Hey, I'm Samanvith
 
 **Freshman CS Student | ML & Web Dev Learner | Building Stuff That Works**
 
 ---
 
 ## About Me
-- First-year Computer Science student at PES University
+- First-year Computer Science student at **PES University**
 - Learning Python, Machine Learning Algorithms, and exploring Quantum Computing
 - I learn best by building things and breaking them in the process
 - Currently working on projects that solve real-world problems
 
 ---
 
-## Tech Stack
-- Languages: Python, C++, C, JavaScript  
-- ML Tools: Scikit-Learn, Pandas, NumPy  
-- (Web Dev stack incoming...)
+## Tech Stack 🧰
+- **Languages:** Python, C++, C, JavaScript  
+- **ML Tools:** Scikit-Learn, Pandas, NumPy  
+- *(Web Dev stack incoming...)*
 
 ---
 
-## Goals
+## Goals 🎯
 - Learn Full Stack Development  
 - Master ML fundamentals  
-- Build side projects that people can actually use  
-- Join hackathons and explore open-source collabs
+- Build useful side projects  
+- Join hackathons and explore open-source
 
 ---
 
@@ -36,8 +36,8 @@
 
 ---
 
-## Let’s Connect
-- LinkedIn: [linkedin.com/in/samanvith-kashyap](https://www.linkedin.com/in/samanvith-kashyap/)  
+## Connect with Me 📫
+- [LinkedIn](https://www.linkedin.com/in/samanvith-kashyap/)  
 - Email: samanvithkashyap@gmail.com
 
 ---
