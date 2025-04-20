@@ -38,7 +38,7 @@
 
 ## Connect with Me 📫
 - [LinkedIn](https://www.linkedin.com/in/samanvith-kashyap/)  
-- Email: samanvithkashyap@gmail.com
+- samanvithkashyap@gmail.com
 
 ---
 
