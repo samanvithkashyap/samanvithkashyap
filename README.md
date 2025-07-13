@@ -1,34 +1,33 @@
 # 👋 Hey, I'm Samanvith
 
-**Freshman CS Student | ML & Web Dev Learner | Building Stuff That Works**
+**CS Undergrad @ PES University | Exploring GNNs & ML | Building Real Stuff**
 
 ---
 
-## About Me
-- First-year Computer Science student at **PES University**
-- Learning Python, Machine Learning Algorithms, and exploring Quantum Computing
-- I learn best by building things and breaking them in the process
-- Currently working on projects that solve real-world problems
+## 🧠 About Me
+- 1st-year Computer Science student at **PES University**
+- Learning Machine Learning, Graph Neural Networks, and Explainable AI
+- Enjoy breaking things to learn how they work (then fixing them better)
+- Currently building small, focused projects to apply ML in useful ways
 
 ---
 
-## Tech Stack 🧰
+## 🧰 Tech Stack
 - **Languages:** Python, C++, C, JavaScript  
-- **ML Tools:** Scikit-Learn, Pandas, NumPy  
-- *(Web Dev stack incoming...)*
+- **ML Tools:** scikit-learn, Google Colab, Pandas, NumPy  
+- **Other:** Git, Linux (CLI), LaTeX, Markdown
 
 ---
 
-## Goals 🎯
-- Learn Full Stack Development  
-- Master ML fundamentals  
-- Build useful side projects  
-- Join hackathons and explore open-source
+## 🔭 Goals
+- Build solid intuition in Machine Learning fundamentals
+- Contribute to open-source ML tools (GSoC/Outreachy prep)
+- Build a GNN-based project in 2025
+- Develop a portfolio site + blog documenting the journey
 
 ---
 
-## GitHub Stats
-
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samanvithkashyap&show_icons=true&theme=radical" alt="Samanvith's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samanvithkashyap&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
@@ -36,10 +35,10 @@
 
 ---
 
-## Connect with Me 📫
+## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/samanvith-kashyap/)  
-- samanvithkashyap@gmail.com
+- ✉️ samanvithkashyap@gmail.com
 
 ---
 
-*“Just building, learning, and figuring it out one line of code at a time.”*
+_“Building, breaking, learning — one graph, one bug, one idea at a time.”_
